@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(197, 228, 255);
+}
+.header {
+    background-color: rgb(255, 204, 204);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 15px;
+    height: 40px;
+
+}
+
+.cite-id {
+    margin: 0;
+}
+
+.main {
+    padding: 80px 15px;
+    
+}
+
+.footer {
+    background-color: rgb(163, 255, 224);
+    position: fixed;
+    bottom: 0;
+    left:0;
+    right:0;
+    
+    
+}
+.nav-list{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-button {
+    background-color: azure;
+    padding: 5px;
+}
